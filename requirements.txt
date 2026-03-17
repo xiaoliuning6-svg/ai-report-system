@@ -1,0 +1,7 @@
+flask
+pandas
+matplotlib
+reportlab
+openai
+python-dotenv
+gunicorn
